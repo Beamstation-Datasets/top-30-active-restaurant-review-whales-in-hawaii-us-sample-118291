@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a state-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Review Whales in Hawaii, US",
+  "export_job_id": "469f800e-fc58-4e28-8613-0486b698264a",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 118291,
+  "location_name": "Hawaii",
+  "location_type": "state",
+  "repo_name": "top-30-active-restaurant-review-whales-in-hawaii-us-sample-118291",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/118291/beamstation_118291_restaurants-us-hi_SAMPLE_DIST.csv",
+  "sample_pct": 1.22,
+  "sample_records": 10,
+  "sample_sha256": "6a7ddb6aadb72b18a448538ae7f80fb5f5891340513e7f398509f3773c7c2627",
+  "sample_size_bytes": 55294,
+  "total_records": 820,
+  "updated_at": "2026-03-31T23:50:46.437319+00:00"
+}
