@@ -1,12 +1,12 @@
 {
-  "export_job_id": "469f800e-fc58-4e28-8613-0486b698264a",
+  "export_job_id": "1515f33d-1000-4373-8247-4da459b92867",
   "id_short": 118291,
-  "published_at": "2026-04-10T19:07:00Z",
+  "published_at": "2026-04-18T07:22:24Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-hawaii-us-sample-118291",
   "sample_asset_name": "beamstation_118291_restaurants-us-hi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/118291/beamstation_118291_restaurants-us-hi_SAMPLE_DIST.csv",
-  "sample_records": 10,
-  "sample_sha256": "6a7ddb6aadb72b18a448538ae7f80fb5f5891340513e7f398509f3773c7c2627",
-  "sample_size_bytes": 55294,
-  "total_records": 820
+  "sample_records": 103,
+  "sample_sha256": "d1ea4e03b16622827fb2c59ea493af8cc17e5d328aefc057b946943d9d29944b",
+  "sample_size_bytes": 426265,
+  "total_records": 1038
 }
